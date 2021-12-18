@@ -1,0 +1,20 @@
+----------------------------------------------------------------------
+
+Welcome! To run the queries please run the Main.py by running the code 
+inside the quotation marks below: 
+
+'python3 Main.py'
+
+If you accidentally quit and wish to run the queries again, please run 
+the same code again. 
+
+
+----------------------------------------------------------------------
+
+All the queries are in functions, whch are inside the flights.py file, 
+while the Main.py calls these functions depending on the input number 
+when asked. For the functions that have inputs, there is a default input 
+in for each function in the Main.py; however, it may easily be changed 
+accordingly. 
+
+
